@@ -20,4 +20,3 @@ jobs:
           push: false
           tags: my_mlops_project:latest
 
-#FINAL
